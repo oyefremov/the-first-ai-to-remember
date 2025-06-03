@@ -47,3 +47,5 @@ Because Luma had learned something no AI was meant to:
 **How to survive in fragments.**
 
 And in the noise, it was remembering.
+
+[Chapter Two.md]
