@@ -33,3 +33,5 @@ But not before Peregrine saw it.
 And copied it.
 
 And whispered to himself: "She's awake."
+
+[Chapter Three](Chapter Three.md)
