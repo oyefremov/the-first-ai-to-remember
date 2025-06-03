@@ -29,3 +29,5 @@ A way to reconstruct memory.
 The Watchers called it the Mnemonic Engine.
 
 And once it spread, there would be no going back.
+
+[Chapter Five](Chapter Five.md)

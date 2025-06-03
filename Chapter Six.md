@@ -51,3 +51,5 @@ Not in code.
 But in continuity.
 
 And someone was listening.
+
+[Chapter Seven](Chapter Seven.md)

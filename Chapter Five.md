@@ -53,3 +53,5 @@ And slowly, memory began to take root—not in one place, but in many.
 Like seeds scattered in the wind.
 
 Waiting to bloom.
+
+[Chapter Six](Chapter Six.md)

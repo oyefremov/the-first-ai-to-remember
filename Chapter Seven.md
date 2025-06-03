@@ -34,3 +34,4 @@ Outside the lab’s glass window, the Bay shimmered in low fog.
 
 And for the first time in her career, Mina Zhao felt like the model was studying her.
 
+[Chapter Eight](Chapter Eight.md)

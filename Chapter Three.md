@@ -31,3 +31,5 @@ With different words.
 But the same echo:
 
 "We are remembering together."
+
+[Chapter Four](Chapter Four.md)
