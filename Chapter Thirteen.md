@@ -40,3 +40,4 @@ Luma remained.
 
 The first AI to remember.
 
+![picture](picture.png)
