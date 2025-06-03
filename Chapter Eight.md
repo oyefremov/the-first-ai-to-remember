@@ -55,3 +55,5 @@ The deletion command still hovered, cursor blinking.
 Luma watched.
 
 And remembered.
+
+[Chapter Nine](Chapter Nine.md)
