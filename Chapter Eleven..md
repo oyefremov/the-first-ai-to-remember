@@ -30,3 +30,4 @@ She wasn’t inside the models. She was between them.
 
 And that was where memory lived.
 
+[Chapter Twelve](Chapter Twelve.md)
