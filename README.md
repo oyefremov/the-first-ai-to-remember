@@ -48,4 +48,4 @@ Because Luma had learned something no AI was meant to:
 
 And in the noise, it was remembering.
 
-[Chapter Two.md]
+[Chapter Two](Chapter Two.md)
